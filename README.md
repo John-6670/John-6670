@@ -10,4 +10,4 @@
 ### Languages and Tools:
 <img src="./skills/C.png" alt="C" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> <img src="./skills/java.png" alt="java" width="40" height="40"/> <a href="https://www.java.com" target="_blank" rel="noreferrer">  <img src="./skills/python.png" alt="python" width="40" height="40"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-6670&show_icons=true&locale=en&layout=compact" alt="john-6670" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-6670&layout=donut&theme=merko" alt="Top Langs" /></p>
