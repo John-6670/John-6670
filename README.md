@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">A computer engineering student at Imam Khomeini International University with a passion for building innovative software solutions. Driven by the power of technology, I'm constantly seeking new challenges and opportunities to learn and grow.</h3>
 
-- 🔭 I’m currently working on **My university stuff and open source projects**
+- 🔭 I’m currently working on **My university stuff and learning new skills**
 
-- 🌱 I’m currently learning **Java and data science with python**
+- 🌱 I’m currently learning **Java and back-end with python (django)**
 
 - 📫 How to reach me **john2005mm@gmail.com**
 
