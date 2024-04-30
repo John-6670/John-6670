@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John</h1>
+<h1 align="center">💫 Hi 👋, I'm John</h1>
 <h3 align="center">A computer engineering student at Imam Khomeini International University with a passion for building innovative software solutions. Driven by the power of technology, I'm constantly seeking new challenges and opportunities to learn and grow.</h3>
 
 - 🔭 I’m currently working on **My university stuff and learning new skills**
@@ -6,8 +6,12 @@
 - 🌱 I’m currently learning **Java and back-end with python (django)**
 
 - 📫 How to reach me **john2005mm@gmail.com**
+  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-### Languages and Tools:
-<img src="./skills/C.png" alt="C" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> <img src="./skills/java.png" alt="java" width="40" height="40"/> <a href="https://www.java.com" target="_blank" rel="noreferrer">  <img src="./skills/python.png" alt="python" width="40" height="40"/> <img src="./skills/django.png" alt="django" width="40" height="40"/>
- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-6670&layout=donut&theme=tokyonight" alt="Top Langs" /></p>
+# 📊 GitHub Stats:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-6670&layout=donut&theme=radical" alt="Top Langs" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
