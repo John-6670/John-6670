@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **[Simple Social Media API](https://github.com/John-6670/SimpleSocialApp) project and learning new skills**
 
-- 🌱 I’m currently learning **Djangi and Rest Freamwork(DRF)**
+- 🌱 I’m currently learning **Django and Rest Freamwork(DRF)**
 
 - 📫 How to reach me:
     - **Email:** hazratimohammadmatin@gmail.com
