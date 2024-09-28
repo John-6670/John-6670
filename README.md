@@ -1,5 +1,5 @@
 <h1 align="center">💫 Hi 👋, I'm John</h1>
-<h3 align="center">A computer engineering student at Imam Khomeini International University with a strong passion for backend development. Proficient Python, Django, and REST framework. Driven by the power of technology, I'm constantly seeking new challenges and opportunities to learn and grow.</h3>
+<h3 align="center">A computer engineering student, with a strong passion for backend development. Proficient Python, Django, and REST framework. Driven by the power of technology, I'm constantly seeking new challenges and opportunities to learn and grow.</h3>
 
 - 🔭 I’m currently working on **[Simple Social Media API](https://github.com/John-6670/SimpleSocialApp) project and learning new skills**
 
