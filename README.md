@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Django and Rest Freamwork(DRF)**
 
 - 📫 How to reach me:
-    - **Email:** john2005mm@gmail.com
+    - **Email:** hazratimohammadmatin@gmail.com
     - **LinkedIn:** https://www.linkedin.com/in/mohammadmatin-h-7b4209216
   <br><br>
 # 💻 Tech Stack:
