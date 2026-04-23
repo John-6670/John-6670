@@ -8,9 +8,11 @@
     - **LinkedIn:** https://www.linkedin.com/in/mohammadmatin-h-7b4209216
   <br><br>
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,django,flask,fastapi,postgresql,mysql,mongodb,redis,r,java,js,react,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,flask,fastapi,postgresql,mysql,mongodb,redis,r,java,js,react,c,Flutter)](https://skillicons.dev)
 <br><br>
 
+# 📊 GitHub Stats:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-6670&layout=donut&theme=cobalt" alt="Top Langs" /></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
