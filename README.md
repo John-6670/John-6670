@@ -18,7 +18,7 @@
   <img src="https://streak-stats.demolab.com/?user=john-6670&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="john-6670's GitHub Streak" width="49%" />
 </p>
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+  <img src="profile-3d-city.svg" alt="3D City" width="80%" />
 </div>
 
 
@@ -80,10 +80,4 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-</picture>
 
